@@ -1,2 +1,2 @@
 # 100_days
-100 days of algo challenge
+100 days of code challenge
