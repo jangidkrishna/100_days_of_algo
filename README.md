@@ -5,6 +5,8 @@ I didn't implement the best, nor fastest, nor nicest, nor bug-free. I worte all 
 The Code was written using golang 1.10.2
 
 ## Steps to compile
-1. git clone https://github.com/jangidkrishna/100_days_of_algo.git
-2. cd 100_days_of_algo
-3. go run ./<any_file>
+```
+$ git clone https://github.com/jangidkrishna/100_days_of_algo.git
+$ cd 100_days_of_algo
+$ go run ./<any_file>
+```
