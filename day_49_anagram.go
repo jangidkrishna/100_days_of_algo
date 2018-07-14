@@ -19,7 +19,7 @@ func anagram (str1 string, str2 string) bool {
 }
 
 func main() {
-    if (anagram("mode","dome")) {
+    if (anagram("mode","ome")) {
         fmt.Println("anagrams")
     } else {
         fmt.Println("not anagrams")
