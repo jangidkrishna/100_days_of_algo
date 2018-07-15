@@ -34,5 +34,6 @@ func countingSort(arr []int) {
 
 func main() {
 	var arr = []int{987, 84, 894, 651, 984, 651, 68, 4351651, 351, 684, 35131, 35, 1}
-	fmt.Println(countingSort(arr))
+	countingSort(arr)
+	fmt.Println(arr)
 }
